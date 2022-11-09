@@ -11,8 +11,8 @@ Every TinyC statement is any of the following, an assignment statement, a contro
 -> Lexical analysis\
 -> Syntax Analysis\
 -> Semantic Analysis\ 
--> Intermediate code generation \
--> Code Optimization \
+-> Intermediate code generation\
+-> Code Optimization\
 -> Code generation\
 
 #Interpretation:\
