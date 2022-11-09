@@ -7,9 +7,9 @@ Every TinyC function has zero or more TinyC statements
 
 Every TinyC statement is any of the following, an assignment statement, a control flow statement, a return statement, a declaration statement, a TinyC print statement
 
-#Compilation:
--> Lexical analysis
--> Syntax Analysis
+#Compilation:\n
+-> Lexical analysis\n
+-> Syntax Analysis\n
 -> Semantic Analysis 
 -> Intermediate code generation 
 -> Code Optimization 
