@@ -10,10 +10,10 @@ Every TinyC statement is any of the following, an assignment statement, a contro
 #Compilation:\
 -> Lexical analysis\
 -> Syntax Analysis\
--> Semantic Analysis\ 
+-> Semantic Analysis <br />
 -> Intermediate code generation\
 -> Code Optimization\
--> Code generation\
+-> Code generation
 
 #Interpretation:\
 -> Lexical analysis \
